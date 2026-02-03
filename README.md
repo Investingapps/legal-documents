@@ -4,7 +4,7 @@ This repository hosts publicly accessible legal documents for InvestingApps appl
 
 ## Documents
 
-- [Terms of Service](TERMS_OF_SERVICE.md)
+- [Terms And Conditions](TERMS_AND_CONDITIONS.md)
 - [Privacy Policy](PRIVACY_POLICY.md)
 
 ## Usage
