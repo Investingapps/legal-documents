@@ -11,7 +11,7 @@ This repository hosts publicly accessible legal documents for InvestingApps appl
 
 These documents are served via GitHub Pages at:
 
-- **Terms:** https://investingapps.github.io/legal-documents/TERMS_OF_SERVICE
+- **Terms:** https://investingapps.github.io/legal-documents/TERMS_AND_CONDITIONS
 - **Privacy:** https://investingapps.github.io/legal-documents/PRIVACY_POLICY
 
 ## Updates
