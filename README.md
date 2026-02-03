@@ -1,4 +1,4 @@
-# InvestingApps Legal Documents
+# InvestingApps Portfolios Legal Documents
 
 This repository hosts publicly accessible legal documents for InvestingApps applications.
 
