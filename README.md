@@ -1,18 +1,18 @@
-# InvestingApps Portfolios Legal Documents
+# VerifiedGains Legal Documents
 
-This repository hosts publicly accessible legal documents for InvestingApps applications.
+This repository hosts publicly accessible legal documents for VerifiedGains.
 
 ## Documents
 
-- [Terms And Conditions](TERMS_AND_CONDITIONS.md)
+- [Terms of Service](TERMS_OF_SERVICE.md)
 - [Privacy Policy](PRIVACY_POLICY.md)
 
 ## Usage
 
 These documents are served via GitHub Pages at:
 
-- **Terms:** https://investingapps.github.io/legal-documents/TERMS_AND_CONDITIONS
-- **Privacy:** https://investingapps.github.io/legal-documents/PRIVACY_POLICY
+- **Terms:** https://verifiedgains.github.io/legal-documents/TERMS_OF_SERVICE.md
+- **Privacy:** https://verifiedgains.github.io/legal-documents/PRIVACY_POLICY.md
 
 ## Updates
 
