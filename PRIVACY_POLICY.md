@@ -1,10 +1,10 @@
-# InvestingApps Portfolios Privacy Policy
+# VerifiedGains Privacy Policy
 
-**Last Updated: February 3, 2026**
+**Last Updated: February 4, 2026**
 
 ## Introduction
 
-InvestingApps Portfolios ("we," "our," or "the App") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Reddit application.
+VerifiedGains ("we," "our," or "the App") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Reddit application.
 
 ## Information We Collect
 
@@ -114,4 +114,4 @@ For privacy-related questions or data deletion requests:
 
 ---
 
-By using InvestingApps Portfolios, you acknowledge that you have read and understood this Privacy Policy and agree to the collection, use, and disclosure of your information as described.
+By using VerifiedGains, you acknowledge that you have read and understood this Privacy Policy and agree to the collection, use, and disclosure of your information as described.
