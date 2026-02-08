@@ -104,6 +104,7 @@ These Terms, along with our Privacy Policy and Reddit's Terms of Service, consti
 ## 16. Contact
 
 For questions about these Terms:
+- Email: Support@verifiedgains.com
 - Reddit: u/investingapps
 
 ---
